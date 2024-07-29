@@ -2,8 +2,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobushiueshi&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 ### Skills
+#### Programming Language
+[![My Skills](https://skillicons.dev/icons?i=c,cs,dart,js,py,r,swift,ts)](https://skillicons.dev)
+
+#### Framework,Library,Package
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,flutter,jest,nextjs,nodejs,prisma,react,tailwind,unity)](https://skillicons.dev)
+
+<!--
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,bitbucket,c,cs,dart,docker,emacs,fastapi,figma,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,jenkins,md,materialui,mysql,nextjs,notion,npm,postgres,postman,py,r,sqlite,swift,tailwind,ts,unity,vscode,wordpress)](https://skillicons.dev)
+
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,bitbucket,c,cs,dart,docker,emacs,fastapi,figma,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,jenkins,md,materialui,mysql,nextjs,notion,npm,postgres,postman,py,r,sqlite,swift,tailwind,ts,unity,vscode,wordpress)](https://skillicons.dev)
 -->
